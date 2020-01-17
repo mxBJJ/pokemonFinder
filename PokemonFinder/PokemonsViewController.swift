@@ -45,13 +45,6 @@ class PokemonsViewController: UIViewController {
         
     }
     
-    
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        
-    }
-    
-    
-    
     func rotateArrowStart(){
         
         DispatchQueue.main.async {
